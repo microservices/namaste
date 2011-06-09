@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = %q{chris@cbeer.info}
   s.homepage    = "http://github.com/microservices/namaste"
   s.summary     = %q{A ruby client implementation of the Namaste specification for directory description with filename-based tags.}
-  s.description = %q{TODO: Write a gem description}
+  s.description = %q{A ruby client implementation of the Namaste specification for directory description with filename-based tags. [https://wiki.ucop.edu/display/Curation/Namaste]}
 
   s.files              = `git ls-files`.split("\n")
   s.test_files         = `git ls-files -- {test,spec,features}/*`.split("\n")
