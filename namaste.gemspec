@@ -26,11 +26,9 @@ Gem::Specification.new do |s|
 
   s.add_dependency("i18n")
   s.add_development_dependency("rake")
-  s.add_development_dependency("rcov")
-  s.add_development_dependency("bundler", "~>1.0.0")
+  s.add_development_dependency("bundler")
   s.add_development_dependency("rspec", ">2.0.0")
   s.add_development_dependency("yard")
-  s.add_development_dependency("RedCloth")
 
 end
 
